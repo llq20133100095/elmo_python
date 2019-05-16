@@ -1,7 +1,5 @@
 # elmo_python
 ## 一、环境
-# elmo_python
-## 一、环境
 - 使用python3
 - 安装allennlp包，这个包里面包含了Elmo模块
 
@@ -26,5 +24,3 @@ weight_file = "https://s3-us-west-2.amazonaws.com/allennlp/models/elmo/2x4096_51
 
 ```
 
-
-## 使用elmo的两种方法
